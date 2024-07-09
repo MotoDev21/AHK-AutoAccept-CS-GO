@@ -11,4 +11,5 @@ MouseMove, (x1-1), ((y1+y2)+1)
 MouseClick
 }
 return
+//Update for CS2
 
